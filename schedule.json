@@ -1,0 +1,263 @@
+[
+    {
+        "count": "0",
+        "day": "1(1)",
+        "date": "05-Sep",
+        "topic": "Introduction",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR,EF)"
+    },
+    {
+        "count": "1",
+        "day": "2(2)",
+        "date": "10-Sep",
+        "topic": "Systems: stocks, flows, & feedbacks",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "2",
+        "day": "3(2)",
+        "date": "12-Sep",
+        "topic": "Black-body radiation",
+        "pre-quiz": "Yes",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "3",
+        "day": "4(3)",
+        "date": "17-Sep",
+        "topic": "Earth\u2019s Radiation Balance",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "4",
+        "day": "5(3)",
+        "date": "19-Sep",
+        "topic": "Greenhouse 1",
+        "pre-quiz": "Yes",
+        "assignment": "Assn 1 (CR)",
+        "TA": "(CR)"
+    },
+    {
+        "count": "5",
+        "day": "6(4)",
+        "date": "24-Sep",
+        "topic": "Greenhouse 2",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "6",
+        "day": "7(4)",
+        "date": "26-Sep",
+        "topic": "Greenhouse 3",
+        "pre-quiz": "Yes",
+        "assignment": "Assn 2 (CR)",
+        "TA": "(CR)"
+    },
+    {
+        "count": "7",
+        "day": "8(5)",
+        "date": "01-Oct",
+        "topic": "Greenhouse 4",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": " ",
+        "day": "Tue",
+        "date": "01 Oct",
+        "topic": "In-Class Quiz 1",
+        "pre-quiz": " ",
+        "assignment": " ",
+        "TA": " "
+    },
+    {
+        "count": "8",
+        "day": "9(5)",
+        "date": "03-Oct",
+        "topic": "Air Temperature & Moisture",
+        "pre-quiz": "Yes",
+        "assignment": "Assn 3 (CR)",
+        "TA": "(CR)"
+    },
+    {
+        "count": "9",
+        "day": "10(6)",
+        "date": "08-Oct",
+        "topic": "Climate Sensitivity",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "10",
+        "day": "11(6)",
+        "date": "10-Oct",
+        "topic": "Climate Sensitivity Cont",
+        "pre-quiz": "Yes",
+        "assignment": " ",
+        "TA": " "
+    },
+    {
+        "count": "11",
+        "day": "12(7)",
+        "date": "15-Oct",
+        "topic": "Forcings and Feedbacks",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "12",
+        "day": "13(7)",
+        "date": "17-Oct",
+        "topic": "Paleotemperature 1",
+        "pre-quiz": "Yes",
+        "assignment": "Assn 4 (CR)",
+        "TA": "(EF)"
+    },
+    {
+        "count": " ",
+        "day": "Thur",
+        "date": "17-Oct",
+        "topic": "In-Class Quiz 2",
+        "pre-quiz": " ",
+        "assignment": " ",
+        "TA": " "
+    },
+    {
+        "count": "13",
+        "day": "14(8)",
+        "date": "22-Oct",
+        "topic": "Paleotemperature 2",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(EF)"
+    },
+    {
+        "count": "14",
+        "day": "15(8)",
+        "date": "24-Oct",
+        "topic": "Milankovitch Cycles",
+        "pre-quiz": "Yes",
+        "assignment": " ",
+        "TA": "(EF)"
+    },
+    {
+        "count": "15",
+        "day": "16(9)",
+        "date": "29-Oct",
+        "topic": "Greenhouse Variability:",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(EF)"
+    },
+    {
+        "count": "16",
+        "day": "17(9)",
+        "date": "31-Oct",
+        "topic": "Greenhouse Variability:",
+        "pre-quiz": "Yes",
+        "assignment": "Assn 5 (CR)",
+        "TA": "(EF)"
+    },
+    {
+        "count": "17",
+        "day": "18(10)",
+        "date": "05-Nov",
+        "topic": "Greenhouse Variability:",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(EF)"
+    },
+    {
+        "count": " ",
+        "day": "Tue",
+        "date": "05-Nov",
+        "topic": "In-Class Quiz 3",
+        "pre-quiz": " ",
+        "assignment": " ",
+        "TA": " "
+    },
+    {
+        "count": "18",
+        "day": "19(10)",
+        "date": "07-Nov",
+        "topic": "Paleo analogues",
+        "pre-quiz": "Yes",
+        "assignment": "Assn 6 (CR)",
+        "TA": "(EF)"
+    },
+    {
+        "count": "19",
+        "day": "20(11)",
+        "date": "09-Nov",
+        "topic": "Paleo analogues continued",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(EF)"
+    },
+    {
+        "count": "20",
+        "day": "21(11)",
+        "date": "14-Nov",
+        "topic": "How Do We Know It\u2019s Us?",
+        "pre-quiz": "Yes",
+        "assignment": " ",
+        "TA": "(EF)"
+    },
+    {
+        "count": "21",
+        "day": "22(12)",
+        "date": "19-Nov",
+        "topic": "Climate Modelling",
+        "pre-quiz": "No",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "22",
+        "day": "23(12)",
+        "date": "21-Nov",
+        "topic": "Climate Forecasts",
+        "pre-quiz": "Yes",
+        "assignment": "Assn 7 (CR)",
+        "TA": "(CR)"
+    },
+    {
+        "count": " ",
+        "day": "Thur",
+        "date": "21-Nov",
+        "topic": "In-Class Quiz 4",
+        "pre-quiz": " ",
+        "assignment": " ",
+        "TA": " "
+    },
+    {
+        "count": "23",
+        "day": "24(13)",
+        "date": "26-Nov",
+        "topic": "Future Decisions for Humanity",
+        "pre-quiz": "Yes",
+        "assignment": " ",
+        "TA": "(CR)"
+    },
+    {
+        "count": "24",
+        "day": "25(13)",
+        "date": "28-Nov",
+        "topic": "Final review",
+        "pre-quiz": "No",
+        "assignment": "Assn 8 (CR) (Morning)",
+        "TA": "CR"
+    }
+]
