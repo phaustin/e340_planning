@@ -1,4 +1,10 @@
-# E340 course documents
+# E340 planning pages
 
 
-* [test link](./course_content.md)
+* [notes for June 10, 2021](./docs//notes_2021_june_10.md)
+
+* [current course content](./docs/course_content.md)
+
+* [draft outline](./docs/ao_outline.md)
+
+* [tlef projects](./docs/tlef_projects.md)
